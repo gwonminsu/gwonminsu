@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Minsu Gwon (권민수)</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=160&section=header&text=Hi%20I’m%20Minsu%20Gwon(권민수)!&fontSize=35&fontAlignY=40&desc=Frontend%20%2B%20Backend%20Developer💻&descAlign=50&descSize=16&fontColor=ffffff" width="100%"/>
+</p>
 <p align="center">
   지속적으로 성장하는 프론트엔드 기반 풀스택 개발자<br/>
   사용자 경험을 최우선으로 생각하며 문제 해결에 진심입니다.
